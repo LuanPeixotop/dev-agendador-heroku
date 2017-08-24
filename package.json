@@ -1,0 +1,10 @@
+{
+ "name": "agendador-unicarioca",
+ "version": "1.0.4",
+ "description": "agendador-unicarioca",
+ "author": "Projeto Matrix",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
